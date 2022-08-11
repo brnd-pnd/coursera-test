@@ -1,0 +1,76 @@
+
+h1 {
+    font-family: 'BhuTuka Expanded One', cursive;
+    color: black;
+    text-shadow: 3em;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+    padding: 2%;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    padding: 1em;
+
+}
+
+Article {
+    text-align: center;
+    color: black;
+    padding: 4%;
+    background-color: #E1DFE3;
+
+}
+
+Section {
+text-align: center;
+background-color: darkgray;
+
+
+}
+.navbar-nav {
+    font-family: 'Courier New', Courier, monospace;
+    color:white
+      }
+      
+
+.container-fluid {
+    background-color: darkgray;
+}
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+
+  body {
+    padding: 0;
+    margin: 0;
+    background: white;
+}
+.navbar {
+    background:darkgray;
+}
+.nav-link{
+    color: black;
+    cursor: pointer; 
+    text-align: center;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+
+}
+.nav-link:hover {
+    color: purple;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.main-navigation {
+    display: block;
+}
